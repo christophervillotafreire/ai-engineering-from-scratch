@@ -101,3 +101,10 @@ site/manuals-data.js
 site/manuals.html
 
 !manuals/*/capture/out/*.log
+
+# AI model checkpoints and large weights
+*.pt
+*.pth
+*.safetensors
+*.bin
+*.onnx
